@@ -1,0 +1,15 @@
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\bin\Debug\net6.0\Zadacha31.exe
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\bin\Debug\net6.0\Zadacha31.deps.json
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\bin\Debug\net6.0\Zadacha31.runtimeconfig.json
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\bin\Debug\net6.0\Zadacha31.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\bin\Debug\net6.0\Zadacha31.pdb
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\Zadacha31.csproj.AssemblyReference.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\Zadacha31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\Zadacha31.AssemblyInfoInputs.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\Zadacha31.AssemblyInfo.cs
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\Zadacha31.csproj.CoreCompileInputs.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\Zadacha31.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\refint\Zadacha31.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\Zadacha31.pdb
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\Zadacha31.genruntimeconfig.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar5\Zadacha31\obj\Debug\net6.0\ref\Zadacha31.dll
